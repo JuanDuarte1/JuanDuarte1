@@ -22,9 +22,9 @@ And i'm currently learning and creating projects with<i>
 <i>Conect Whit me: </i>
 <br>
 <br>
- <a href=https://www.instagram.com/juanduarte.1 >
+ <a href= "https://www.instagram.com/juanduarte.1" targer="-blank" />
  <img align="left" alt="logo-ïnstagram" width="24px" src="https://th.bing.com/th/id/R.d880faebb3dfcb0da6b568aacf561c2a?rik=bqxPrvnatG6JIA&riu=http%3a%2f%2fgetdrawings.com%2fvectors%2fwhite-instagram-logo-vector-11.png&ehk=isFxUg5rwr7XhEmf8OtI5ao5tlhI%2f1fJnM0htGnZ3qQ%3d&risl=&pid=ImgRaw&r=0" />
- <a href=https://www.linkedin.com/in/juan-duarte-4a620b265 >
+ <a href="https://www.linkedin.com/in/juan-duarte-4a620b265" targer="-blank" />
  <img align="left" alt="logo-ïnstagram" width="24px" src="https://icon-library.com/images/white-linkedin-icon-transparent-background/white-linkedin-icon-transparent-background-24.jpg" />
    <br>
    <br>
